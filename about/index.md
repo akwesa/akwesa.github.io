@@ -1,26 +1,26 @@
 ---
 layout: page
-title: About the Theme
+title: About me
 tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+date: 2018-12-02
 comments: false
 ---
-    
+
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
 ## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+* 생년월일 : 2003년 2월 24일
+* 학교 : 상현초, 효자초 졸업, 성서중학교
+* 취미 : 게임, 컴퓨터, 탁구....
+* 프로그래밍 언어 : c, c++, java, html
+* computer
+    CPU : i7-8086k(4.9GHz O.C)
+    MAIN : Asus z370 maximus x hero
+    RAM : 16g(3200 O.C)
+    GPU : GTX 1070
+    POWER : 750w
 
-## Preview
+ <!--## Preview
 
 {% capture images %}
     https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
@@ -33,5 +33,6 @@ See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 ## Getting Started
 
 To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
+
 [Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+-->
