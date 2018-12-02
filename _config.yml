@@ -60,7 +60,7 @@ youtube:            username
 #codepen:           username
 #keybase:           username
 #xmpp:              username@server.com
-#hackernews:        username
+hackernews:         username
 
 # Gems
 gems:
