@@ -17,5 +17,4 @@ int main()
 		cout << vec[i]<<endl;  
 	}  
 	return 0;  
-}  
-<pre/><code/>  
+}   
