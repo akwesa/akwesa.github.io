@@ -1,0 +1,21 @@
+ <pre><code> #include<iostream>  
+ #include<vector>
+using namespace std;
+int main()
+{
+	int i;
+	vector<int> vec;
+	int a =1;
+	for(i=0;i<100;i++)
+	{
+		vec.push_back(a);
+		a++;
+	}
+
+	for(i=0;i<100;i++)
+	{
+		cout << vec[i]<<endl;
+	}
+	return 0;
+}
+<pre/><code/>
